@@ -26,11 +26,11 @@ redis: in memory {key:value} datastore
 https://github.com/snehilvj/dash-extensions
 
 dependencies
-dash
-xarray
-pandas
-dash-mantine-components
-dash-bootstrap-components
-numpy
+* dash
+* xarray
+* pandas
+* dash-mantine-components
+* dash-bootstrap-components
+* numpy
 
 please change the cache path
